@@ -340,7 +340,7 @@
 	.tbox1,
 	.tbox2
 	{
-		width: 575px;
+		width: 400px;
 	}
 	
 	.tbox1
@@ -447,7 +447,7 @@
 	#menu li a, #menu li span
 	{
 		display: block;
-		padding: 1.65em 1.5em;
+		padding: 1.55em 1.5em;
 		text-align: center;
 		text-decoration:  none;
 		text-transform: uppercase;
@@ -578,4 +578,10 @@
 		display: block;
 		color: #000;
 		background: red;
+	}
+
+	#DownloadJar
+	{
+		display: block;
+		float: center;
 	}
